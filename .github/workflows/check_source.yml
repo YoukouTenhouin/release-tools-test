@@ -1,0 +1,9 @@
+name: Check Source
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  trigger_review:
+    uses: YoukouTenhouin/openSUSE-release-tools/.github/workflows/run_check_source.yml@vcs-refactor
