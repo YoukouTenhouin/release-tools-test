@@ -12,4 +12,7 @@
 # license that conforms to the Open Source Definition (Version 1.9)
 # published by the Open Source Initiative.
 
+Name: release-tools-test
+Version: 0.0.1
+
 %changelog
